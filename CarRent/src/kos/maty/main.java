@@ -43,7 +43,12 @@ public class main {
 
 
         System.out.println(Arrays.toString(carsToRent.toArray()));
-        ;
+
+
+        for (int i = 0; i<carsToRent.size();i++){
+            System.out.println(carsToRent.get(i));
+
+        }
 
     }
 }

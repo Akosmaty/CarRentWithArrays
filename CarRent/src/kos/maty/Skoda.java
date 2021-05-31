@@ -4,7 +4,7 @@ public class Skoda implements Cars {
     public  String model;
     public String engine;
     public String color;
-    public  String outData;
+
 
 
     public Skoda(String model, String engine, String color) {
